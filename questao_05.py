@@ -1,0 +1,1 @@
+print("Apredendo Algoritmo com Anita e Guto e ementando no UAL fica muito mais facil")
